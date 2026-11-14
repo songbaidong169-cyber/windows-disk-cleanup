@@ -1,0 +1,9 @@
+﻿# Logs and temp output from the scripts
+*.log
+*.tsv
+scan-*.tsv
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
