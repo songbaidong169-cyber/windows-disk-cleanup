@@ -61,10 +61,10 @@ junction 只用于**不会被更新器整体删除重建**的目录（缓存、�
 
 ```powershell
 # DSH（DeepSeek Harness）
-git clone https://github.com/<you>/windows-disk-cleanup.git "$env:USERPROFILE\.dsh\skills\windows-disk-cleanup"
+git clone https://github.com/songbaidong169-cyber/windows-disk-cleanup.git "$env:USERPROFILE\.dsh\skills\windows-disk-cleanup"
 
 # Claude Code / 兼容 Agent Skills 的客户端
-git clone https://github.com/<you>/windows-disk-cleanup.git "$env:USERPROFILE\.claude\skills\windows-disk-cleanup"
+git clone https://github.com/songbaidong169-cyber/windows-disk-cleanup.git "$env:USERPROFILE\.claude\skills\windows-disk-cleanup"
 ```
 
 也可以只把 `SKILL.md` 和 `references/classification.md` 丢进你现有的技能目录。
